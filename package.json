@@ -1,0 +1,27 @@
+{
+  "name": "@pengliheng/adb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengliheng/adb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengliheng/adb/issues"
+  },
+  "homepage": "https://github.com/pengliheng/adb#readme",
+  "dependencies": {
+    "adbkit": "^2.11.0",
+    "chalk": "^2.4.1",
+    "child_process": "^1.0.2",
+    "inquirer": "^6.2.0",
+    "requirer": "^0.0.4"
+  }
+}
